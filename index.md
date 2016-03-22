@@ -2,7 +2,6 @@
 layout: frontpage
 ---
 
-## Welcome to my website
-
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+## Hello!
+This is a blog to document some projects of mine and whatever comes to mind that I need to write down.
+Once again thanks to [LiXizhi](https://github.com/LiXizhi) and for providing the template in [Jekyll](https://jekyllrb.com/).
