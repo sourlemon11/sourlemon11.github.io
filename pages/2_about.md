@@ -32,5 +32,5 @@ end
 
 ## About me
 
-I'm a Mechanical Engineer with interests in programming, and orbital mechanics. I recently graduated at Rutgers School of Engineering and I'm looking for a place to work.
+I'm a Mechanical Engineer with interests in programming, and orbital mechanics. I recently graduated at Rutgers School of Engineering and I thought this would be the best place to document my projects.
 
