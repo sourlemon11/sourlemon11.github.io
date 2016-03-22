@@ -18,7 +18,7 @@ viewsourceroot: https://github.com/sourlemon11/sourlemon11.github.io/blob/master
 newsourceroot: https://github.com/sourlemon11/sourlemon11.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-comments:false
+comments: false
 #duoshuo_shortname: lixizhi
 #duoshuo_url: "http://lixizhi.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
